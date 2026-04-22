@@ -16,8 +16,7 @@
 
 ---
 
-<!-- About Me Section -->
-<img align="right" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="200"/>
+
 
 ## 🪓 About Me — Steve's Log
 
