@@ -12,7 +12,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=5BFF6E&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Steve0123+%E2%9B%8F%EF%B8%8F;Software+Developer+%F0%9F%92%BB;Minecraft+Addict+%F0%9F%8E%AE;Building+Cool+Stuff+%F0%9F%94%A8)
 
-![grass](https://img.shields.io/badge/-%F0%9F%8C%B3%20Just%20joined%20GitHub%20%E2%80%94%20Watch%20this%20world%20grow!%20%F0%9F%8C%B3-5BFF6E?style=flat-square&labelColor=0d1117&color=1a3a1e)
+
 
 </div>
 
