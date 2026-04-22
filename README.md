@@ -104,8 +104,6 @@ Hobbies:    Coding, Crafting, Surviving Creepers
 <div align="center">
 
 [![Twitter/X](https://img.shields.io/badge/@byronsmith0123-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/byronsmith0123)
-[![GitHub](https://img.shields.io/badge/stevebyron0123-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stevebyron0123)
-[![XShark](https://img.shields.io/badge/XShark-0057FF?style=for-the-badge&logo=shark&logoColor=white)](https://github.com/stevebyron0123)
 
 </div>
 
@@ -119,9 +117,9 @@ Hobbies:    Coding, Crafting, Surviving Creepers
     Creepers have been known to destroy his code.
     He always punches trees first. 🌲
 ```
+*Made with ❤️ and way too many Minecraft references*
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=stevebyron0123.stevebyron0123&color=5BFF6E)
 
-*Made with ❤️ and way too many Minecraft references*
 
 </div>
